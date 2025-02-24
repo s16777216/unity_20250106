@@ -9,7 +9,6 @@ public class Exercise_9 : MonoBehaviour
         Debug.Log(var1);
         sbyte var2 = ((sbyte)var1);
         Debug.Log(var2);
-
     }
 
 }
